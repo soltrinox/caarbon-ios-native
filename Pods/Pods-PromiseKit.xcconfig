@@ -1,0 +1,2 @@
+PODS_PROMISEKIT_GCC_PREPROCESSOR_DEFINITIONS = $(inherited) PMK_CORELOCATION=1 $(inherited) PMK_FOUNDATION=1 $(inherited) PMK_MAPKIT=1 $(inherited) PMK_SOCIALFRAMEWORK=1 $(inherited) PMK_UIKIT=1
+PODS_PROMISEKIT_OTHER_LDFLAGS = -framework Accounts -framework CoreLocation -framework Foundation -framework MapKit -framework Social -framework UIKit

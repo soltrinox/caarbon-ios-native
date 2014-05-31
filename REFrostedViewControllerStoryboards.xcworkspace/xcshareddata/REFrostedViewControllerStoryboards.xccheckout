@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7918723-C818-46BA-BC05-774D83F44DF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>REFrostedViewControllerStoryboards</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>450291E7-B046-4E03-955E-5E23B5DC68D7</key>
+		<string>https://github.com/soltrinox/CELLO_NATIVE_IOS.git</string>
+		<key>5E2F5367-ECF0-40E9-9456-C01CE0C90C79</key>
+		<string>https://github.com/soltrinox/REFrostedViewController.git</string>
+		<key>B379CADC-CEEF-4E8C-BA47-1A1A3FA497CF</key>
+		<string>ssh://github.com/caarbon/caarbon-ios-native.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Examples/Storyboards/REFrostedViewControllerStoryboards.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>450291E7-B046-4E03-955E-5E23B5DC68D7</key>
+		<string>../../../../CELLO_NATIVE_IOS</string>
+		<key>5E2F5367-ECF0-40E9-9456-C01CE0C90C79</key>
+		<string>../../..</string>
+		<key>B379CADC-CEEF-4E8C-BA47-1A1A3FA497CF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/caarbon/caarbon-ios-native.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5E2F5367-ECF0-40E9-9456-C01CE0C90C79</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>450291E7-B046-4E03-955E-5E23B5DC68D7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CELLO_NATIVE_IOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5E2F5367-ECF0-40E9-9456-C01CE0C90C79</string>
+			<key>IDESourceControlWCCName</key>
+			<string>REFrostedViewControllerFork</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B379CADC-CEEF-4E8C-BA47-1A1A3FA497CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Storyboards</string>
+		</dict>
+	</array>
+</dict>
+</plist>

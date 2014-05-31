@@ -1,0 +1,105 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - BPForms (2.0.0):
+    - BPForms/FloatLabel
+  - BPForms/Core (2.0.0):
+    - Masonry
+  - BPForms/FloatLabel (2.0.0):
+    - BPForms/Core
+    - JVFloatLabeledTextField
+  - ChuzzleKit (1.0.2)
+  - Firebase (1.0.9)
+  - GeotriggerSDK (1.0.0)
+  - ISO8601DateFormatterValueTransformer (0.5.0):
+    - RKValueTransformers (~> 1.0.0)
+  - JVFloatLabeledTextField (0.0.8)
+  - LBBlurredImage (0.2.0)
+  - Masonry (0.5.1)
+  - MVSpeechSynthesizer (1.0.1)
+  - pop (1.0.5)
+  - PPSSignatureView (0.1.0)
+  - PromiseKit (0.9.6):
+    - PromiseKit/base
+    - PromiseKit/CoreLocation
+    - PromiseKit/Foundation
+    - PromiseKit/MapKit
+    - PromiseKit/private
+    - PromiseKit/SocialFramework
+    - PromiseKit/UIKit
+  - PromiseKit/base (0.9.6)
+  - PromiseKit/CoreLocation (0.9.6):
+    - PromiseKit/base
+    - PromiseKit/private
+  - PromiseKit/Foundation (0.9.6):
+    - ChuzzleKit
+    - PromiseKit/base
+  - PromiseKit/MapKit (0.9.6):
+    - PromiseKit/base
+  - PromiseKit/private (0.9.6)
+  - PromiseKit/SocialFramework (0.9.6):
+    - PromiseKit/base
+  - PromiseKit/UIKit (0.9.6):
+    - PromiseKit/base
+  - RestKit (0.21.0):
+    - RestKit/Core
+  - RestKit/Core (0.21.0):
+    - RestKit/CoreData
+    - RestKit/Network
+    - RestKit/ObjectMapping
+  - RestKit/CoreData (0.21.0)
+  - RestKit/Network (0.21.0):
+    - AFNetworking (~> 1.3.0)
+    - RestKit/ObjectMapping
+    - RestKit/Support
+    - SOCKit
+  - RestKit/ObjectMapping (0.21.0):
+    - ISO8601DateFormatterValueTransformer (~> 0.5.0)
+    - RestKit/Support
+    - RKValueTransformers (~> 1.0.0)
+  - RestKit/Support (0.21.0):
+    - TransitionKit (= 1.1.1)
+  - RKValueTransformers (1.0.1)
+  - SLParallaxController (1.0.3)
+  - SOCKit (1.1)
+  - TesseractOCRiOS (2.22)
+  - TransitionKit (1.1.1)
+  - UIColor+FlatColors (0.0.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 1.0)
+  - BPForms (~> 2.0.0)
+  - Firebase (~> 1.0.9)
+  - GeotriggerSDK
+  - LBBlurredImage
+  - MVSpeechSynthesizer
+  - pop (~> 1.0)
+  - PPSSignatureView
+  - PromiseKit
+  - RestKit (~> 0.21.0)
+  - SLParallaxController
+  - TesseractOCRiOS (~> 2.22)
+  - UIColor+FlatColors
+
+SPEC CHECKSUMS:
+  AFNetworking: 80c4e0652b08eb34e25b9c0ff3c82556fe5967b4
+  BPForms: cc9c6f716bc87275d0a307bd6a98ddbd34f62baf
+  ChuzzleKit: 9932e7e4576360ae6ed95f912e74d2ee4288626b
+  Firebase: 9ed1c8e37b4ea658c3a9eb5539edfc5fb8933f21
+  GeotriggerSDK: 676a11a67d3934863bd9c452e67a242e1da678a2
+  ISO8601DateFormatterValueTransformer: a7e1ecf4380d0b561306ced1a3f01bd5f65d2213
+  JVFloatLabeledTextField: 16dea87b899a7b62026eb8d8cf9902c08b1953da
+  LBBlurredImage: 30cc42be977bbcece286d26d2d9c08b8be7f05e8
+  Masonry: 1583542eb69878299bc8a400f28caea96f14a9a3
+  MVSpeechSynthesizer: 9e7e5cc4336025e82be4330ff1dd92c7777a1b5b
+  pop: 75fa2b33934200a8a68abb449ac1726fcf7e43b9
+  PPSSignatureView: 9a1a1b601ab9642d69e8268b99784fd7f9ed88bc
+  PromiseKit: bc7fa9ab0215966935614d890e914a6116840ca7
+  RestKit: 02cb6d613048fdb123b51a7fc31542b6414cc08f
+  RKValueTransformers: 994503e34bffdbe0159ff6b497290dd1f8d5657f
+  SLParallaxController: d65b8bfaa06c6238cef4df971310f533f0452f90
+  SOCKit: d8d0dd3688ae1026c12367570da8fa8e1a6980fb
+  TesseractOCRiOS: 96e638295c3af9d95f27e9999eabfad405274466
+  TransitionKit: b573f93c422f6aedf7d40e93e7c2f202d1295063
+  UIColor+FlatColors: 15506ef6472e26a751033f2f2469283800bcb906
+
+COCOAPODS: 0.33.1
